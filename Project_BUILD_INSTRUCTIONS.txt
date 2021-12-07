@@ -1,0 +1,13 @@
+To run development:
+    -npm install in main project folder
+    -npm start to run the server
+
+   -npm install in /calmproject_frontend
+   -npm start to run the client
+
+   -watch styles in /calmproject_frontend:
+    sass --watch  src/css/scss/styles.scss:src/css/styles.css
+
+To deploy to production:
+    -npm run build in /calmproject_frontend
+    -commit master

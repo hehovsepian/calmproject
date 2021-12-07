@@ -1,0 +1,9 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:hehovsepian/calmprojectclient.git
+[submodule "calmprojectclient"]
+	path = calmprojectclient
+	url = git@github.com:hehovsepian/calmprojectclient.git
+[submodule "calmproject_frontend"]
+	path = calmproject_frontend
+	url = git@github.com:hehovsepian/calmproject_frontend.git
